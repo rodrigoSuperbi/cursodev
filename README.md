@@ -1,0 +1,2 @@
+# cursodev
+clone tabnews
